@@ -76,6 +76,8 @@ Finally, let's update the remote repository:
 
 ```bash
 git push
+
+Added my nonsense
 ```
 
 `git push` pushes your changes up to the remote repository. If you check your fork, you should see the changes there.
